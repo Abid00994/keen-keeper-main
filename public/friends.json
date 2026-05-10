@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "James Park",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80",
+    "email": "james.park@example.com",
+    "days_since_contact": 9,
+    "status": "almost due",
+    "tags": ["College", "Close friend"],
+    "bio": "Met in the marketing club at school and still share career updates over coffee.",
+    "goal": 14,
+    "next_due_date": "2026-05-20"
+  },
+  {
+    "id": 2,
+    "name": "Maya Lee",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "email": "maya.lee@example.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["Design", "Work"],
+    "bio": "Product design partner for the last launch; we compare notes on new apps and workflows.",
+    "goal": 14,
+    "next_due_date": "2026-05-05"
+  },
+  {
+    "id": 3,
+    "name": "Samira Ahmed",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80",
+    "email": "samira.ahmed@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["Family", "Close friend"],
+    "bio": "Childhood friend who loves weekend hikes and long brunch conversations.",
+    "goal": 21,
+    "next_due_date": "2026-05-25"
+  },
+  {
+    "id": 4,
+    "name": "Carlos Rivera",
+    "picture": "https://images.unsplash.com/photo-1546525848-3ce03ca516f6?auto=format&fit=crop&w=400&q=80",
+    "email": "carlos.rivera@example.com",
+    "days_since_contact": 16,
+    "status": "almost due",
+    "tags": ["Gym", "Health"],
+    "bio": "Gym buddy who motivates me to stay accountable with weekly workouts.",
+    "goal": 14,
+    "next_due_date": "2026-05-18"
+  },
+  {
+    "id": 5,
+    "name": "Priya Shah",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e2?auto=format&fit=crop&w=400&q=80",
+    "email": "priya.shah@example.com",
+    "days_since_contact": 29,
+    "status": "overdue",
+    "tags": ["Book club", "Weekend"],
+    "bio": "Book club friend who always recommends the best novels for rainy afternoons.",
+    "goal": 14,
+    "next_due_date": "2026-05-02"
+  },
+  {
+    "id": 6,
+    "name": "Nia Thompson",
+    "picture": "https://images.unsplash.com/photo-1524504388940-b1c1722653e3?auto=format&fit=crop&w=400&q=80",
+    "email": "nia.thompson@example.com",
+    "days_since_contact": 7,
+    "status": "on-track",
+    "tags": ["Mentor", "Career"],
+    "bio": "Startup mentor who helps refine ideas and review progress every few weeks.",
+    "goal": 14,
+    "next_due_date": "2026-05-18"
+  },
+  {
+    "id": 7,
+    "name": "Anika Patel",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df3?auto=format&fit=crop&w=400&q=80",
+    "email": "anika.patel@example.com",
+    "days_since_contact": 11,
+    "status": "almost due",
+    "tags": ["Family", "Holiday"],
+    "bio": "Family friend who plans trips and catches up over shared recipes.",
+    "goal": 14,
+    "next_due_date": "2026-05-22"
+  },
+  {
+    "id": 8,
+    "name": "Leo Nguyen",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df4?auto=format&fit=crop&w=400&q=80",
+    "email": "leo.nguyen@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["Music", "Events"],
+    "bio": "Concert partner who always has the latest live show recommendations.",
+    "goal": 14,
+    "next_due_date": "2026-05-24"
+  }
+]
